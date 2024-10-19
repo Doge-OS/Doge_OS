@@ -114,3 +114,13 @@ footer {
     vertical-align: middle; /* Aligns the icon with the text */
     margin-right: 10px; /* Space between icon and text */
 }
+
+.video-container { 
+    display: flex;
+    justify-content: center; align-items: center;
+    margin: 20px 0;
+｝
+                  
+iframe {
+max-width: 100%; height: auto;
+｝
