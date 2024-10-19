@@ -10,7 +10,6 @@ header {
     background: url('Doges_Wall.jpeg'); /* Removed the gradient and kept only the background image */
     background-size: cover; /* Ensures the image covers the entire header */
     background-position: center; /* Centers the image */
-    color: #fff;
     padding: 20px 0;
 }
 
