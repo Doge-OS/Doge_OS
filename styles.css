@@ -107,3 +107,10 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+.logo-icon {
+    width: 30px; /* Adjust the size as needed */
+    height: auto;
+    vertical-align: middle; /* Aligns the icon with the text */
+    margin-right: 10px; /* Space between icon and text */
+}
